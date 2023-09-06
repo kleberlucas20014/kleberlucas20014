@@ -30,7 +30,7 @@
     
      
   <div align="center">
-  <h1 align="center">Redes Sociais</h1>
+  <h1 >Redes Sociais</h1>
     <a href = "mailto: kleberlucas20014@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
