@@ -17,8 +17,6 @@
 <br>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="csharp-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -26,11 +24,12 @@
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" height="30" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
       
    </div>
     
-  
+     
+  <div align="center">
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: kleberlucas20014@gmail.com">
       <img width="30" src="gmail.svg">
@@ -43,11 +42,10 @@
 
 <div text align="left">
   if you like what i do, maybe consider buying me a coffee  👉👈
-  </div>
+  </div><br>
   <div>
 <a href="mailto: kleberlucas20014@gmail.com" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
 
   
-![Snake animation](https://github.com/kleberlucas20014/kleberlucas20014/blob/output/github-contribution-grid-snake.svg)
