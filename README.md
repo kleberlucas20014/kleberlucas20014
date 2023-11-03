@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ... cloud development 
 - 👯 I’m looking to collaborate on ...fullstack development
-- 📅 hobbies... learn about cybersecurity
+- 📅 hobbies... learn about cybersecurity concepts
 - 💬 Ask me about ...Python
 
 
